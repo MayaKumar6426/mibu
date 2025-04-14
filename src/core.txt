@@ -1,2 +1,3 @@
 Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
